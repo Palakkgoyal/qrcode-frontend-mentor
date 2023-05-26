@@ -20,7 +20,7 @@ This is my first challenge given by Frontend Mentor. I have used vanilla HTML an
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/images/ss.png)
 
 ### Links
 - Live Site URL: [Add live site URL here](https://qr-code-palak-goyal.netlify.app/)
